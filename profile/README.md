@@ -1,7 +1,7 @@
 
  <h1 align="center">BEM VINDO À COMUNIDADE CRAZY CLOUD!</h1>
    
-<h2 align="center">Aqui compartilhamos materiais de estudos AWS Cloud Practitioner e AWS Cloud Architected</h2>
+<h2 align="center">Aqui compartilhamos materiais de estudos AWS Cloud Practitioner, AWS Cloud Architected, entre outros</h2>
 
 <h2 align="center">Possuímos um grupo de estudos no WhatsApp, onde nos reunirmos para estudar e fazer simulados.</h2>
 
