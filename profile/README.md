@@ -1,5 +1,5 @@
 
- <h1 align="center">BEM VINDO À COMUNIDADE CRAZY CLOUD!</h1>
+ <h1 align="center">BEM VINDO À COMUNIDADE CLOUD KNITTERS!</h1>
    
 <h2 align="center">Aqui compartilhamos materiais de estudos AWS Cloud Practitioner, AWS Cloud Architected, entre outros</h2>
 
